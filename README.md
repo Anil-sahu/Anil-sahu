@@ -1,7 +1,7 @@
 
 
 <img src ="https://segwitz.com/wp-content/uploads/2020/06/mobile-app-development-maintenance.png">
-<h1 align ='center'>Anil Sahu</h1>aScript" target="_blank" rel="noreferrer">
+<h1 align ='center'>Anil Sahu</h1>
 
 <h3 align="center">A passionate Flutter developer from India</h3>
 
