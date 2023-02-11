@@ -1,6 +1,7 @@
 
 
-<img src ="https://segwitz.com/wp-content/uploads/2020/06/mobile-app-development-maintenance.png">
+<!-- <img src ="[https://segwitz.com/wp-content/uploads/2020/06/mobile-app-development-maintenance.png](https://img.freepik.com/free-vector/app-development-illustration_52683-47931.jpg?w=740&t=st=1676089732~exp=1676090332~hmac=8eb682d422906ad5153e2d799486d03ec0dc0b2c22d654e8a87d4881e11ed328)"> -->
+<img src = "https://img.freepik.com/free-vector/app-development-illustration_52683-47931.jpg?w=740&t=st=1676089732~exp=1676090332~hmac=8eb682d422906ad5153e2d799486d03ec0dc0b2c22d654e8a87d4881e11ed328"/>
 <h1 align ='center'>Anil Sahu</h1>
 
 <h3 align="center">A passionate Flutter developer from India</h3>
